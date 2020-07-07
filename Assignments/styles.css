@@ -21,10 +21,7 @@ footer{
 	margin-right: 20px;
 	font-size: 30px;
 }
-.column{
-  float: left;
-  width: 50%;
-}
+
 div.absolute {
  	 position: absolute;
  	 width: 22%;
@@ -33,5 +30,8 @@ div.absolute {
   	text-align: center;
   	border-style: solid;
 	border-color: cadetblue;
+ }
+ h3{
+ 	color: cadetblue;
  }
 
